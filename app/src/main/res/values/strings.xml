@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Media</string>
+
+    <string name="audio_handle">音频处理</string>
+    <string name="media_handle">音视频处理</string>
+    <string name="video_handle">视频处理</string>
+
+
+
+</resources>
